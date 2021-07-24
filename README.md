@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="center">I am a third year student from Amity University Noida in Computer Science. I am passionate python developer and cyber security learner.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d3bd25991cda0969e0d40229f4700e2710dc5f92&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d3bd25991cda0969e0d40229f4700e2710dc5f92&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Solving Real Life Problems using Python**
 
