@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEhW5hyIwI/1IKz1s-yBc3orJBfbbtFpQ/view?utm_content=DAEhW5hyIwI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)]
+[![MasterHead](https://www.canva.com/design/DAEhW5hyIwI/1IKz1s-yBc3orJBfbbtFpQ/view?utm_content=DAEhW5hyIwI&utm_campaign=designshare&utm_medium=link&utm_source=viewer)]
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="center">I am a third year student from Amity University Noida in Computer Science. I am passionate python developer and cyber security learner.</h3>
 
