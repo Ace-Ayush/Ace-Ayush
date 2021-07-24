@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="center">I am a third year student from Amity University Noida in Computer Science. I am passionate python developer and cyber security learner.</h3>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ace-ayush" alt="ace-ayush" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ace_ayush_" target="blank"><img src="https://img.shields.io/twitter/follow/ace_ayush_?logo=twitter&style=for-the-badge" alt="ace_ayush_" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d3bd25991cda0969e0d40229f4700e2710dc5f92&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Solving Real Life Problems using Python**
 
@@ -33,4 +37,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ace-ayush&show_icons=true&locale=en" alt="ace-ayush" /></p>
+
 
