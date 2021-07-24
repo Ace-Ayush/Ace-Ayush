@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ace-ayush&show_icons=true&locale=en&layout=compact" alt="ace-ayush" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ace-ayush&show_icons=true&locale=en" alt="ace-ayush" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ace-ayush&show_icons=true&locale=en" alt="ace-ayush" /></p>
