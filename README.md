@@ -3,7 +3,7 @@
 <!-- [![Spotify](https://novatorem-mu-sand.vercel.app/api/spotify)]-->
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/ace_ayush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ace_ayush_" height="30" width="40" /></a>
+<a href="https://twitter.com/ace_ayush_" target="blank"><img align="center" src="<i class="uil uil-twitter"></i>" alt="ace_ayush_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-shrivastava-ace-ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-shrivastava-ace-ayush" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14265492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14265492" height="30" width="40" /></a>
 <a href="https://fb.com/ayush shrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush shrivastava" height="30" width="40" /></a>
