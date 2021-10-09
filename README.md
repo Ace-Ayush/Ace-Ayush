@@ -1,5 +1,5 @@
 [![MasterHead](https://i.imgur.com/DYTWDaK.jpeg)](https://ayushshrivastava.live/)
-<h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
+<h0 align="center">Hi 👋, I'm Ayush Shrivastava</h0>
 <h3 align="center">I am a third year student from Amity University Noida in Computer Science. I am passionate python developer and cyber security learner.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d3bd25991cda0969e0d40229f4700e2710dc5f92&rid=giphy.gif&ct=g">
