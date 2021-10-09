@@ -1,4 +1,5 @@
 [![MasterHead](https://i.imgur.com/DYTWDaK.jpeg)](https://ayushshrivastava.live/)
+# Hi 👋, I'm Ayush Shrivastava:
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="justify">I am currently pursuing my Bachelors in Computer Science (pre-final year) and have solid works done in the domains of AI/ML with Python, Cyber Security and Web Development.Apart from my Technical skills, I have been actively showcasing my Non-Technical skills like Management, Marketing, and Growth via working with college clubs like Amity AI Club and Amity Cloud Security Club.</h3>
 
