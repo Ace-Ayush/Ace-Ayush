@@ -1,5 +1,4 @@
 [![MasterHead](https://i.imgur.com/DYTWDaK.jpeg)](https://ayushshrivastava.live/)
-# Hi 👋, I'm Ayush Shrivastava:
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="justify">I am currently pursuing my Bachelors in Computer Science (pre-final year) and have solid works done in the domains of AI/ML with Python, Cyber Security and Web Development.Apart from my Technical skills, I have been actively showcasing my Non-Technical skills like Management, Marketing, and Growth via working with college clubs like Amity AI Club and Amity Cloud Security Club.</h3>
 
@@ -20,8 +19,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ace-ayush&show_icons=true&locale=en" alt="ace-ayush" /></p>
 
-### Languages/Frameworks I'm good at:
-<h3 align="left">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ace_ayush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ace_ayush_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-shrivastava-ace-ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-shrivastava-ace-ayush" height="30" width="40" /></a>
