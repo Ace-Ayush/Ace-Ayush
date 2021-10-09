@@ -1,6 +1,12 @@
 [![MasterHead](https://i.imgur.com/DYTWDaK.jpeg)](https://ayushshrivastava.live/)
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
+  <tr>
+  <td width="50%">
+      
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+  <td width="50%">
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ace_ayush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ace_ayush_" height="30" width="40" /></a>
