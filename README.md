@@ -14,15 +14,15 @@
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d3bd25991cda0969e0d40229f4700e2710dc5f92&rid=giphy.gif&ct=g">
 
-<h3>- 🔭 I’m currently working on **Solving Real Life Problems using Python**</h3>
+<h4>- 🔭 I’m currently working on **Solving Real Life Problems using Python**</h4>
 
-<h3>- 💬 Ask me about **Python, Cyber Security**</h3>
+<h4>- 💬 Ask me about **Python, Cyber Security**</h4>
 
-<h3>- 📫 How to reach me **ayushshrivastava600@gmail.com**</h3>
+<h4>- 📫 How to reach me **ayushshrivastava600@gmail.com**</h4>
 
-<h3>- 📄 Know about my experiences https://www.linkedin.com/in/ayush-shrivastava-ace-ayush/</h3>
+<h4>- 📄 Know about my experiences https://www.linkedin.com/in/ayush-shrivastava-ace-ayush/</h4>
 
-<h3>- ⚡ Fun fact **I am very helpful person, can ask for help at any time.**</h3>
+<h4>- ⚡ Fun fact **I am very helpful person, can ask for help at any time.**</h4>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
