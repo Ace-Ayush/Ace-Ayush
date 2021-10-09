@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://drive.google.com/file/d/138m5TBYBToOXbTrgXSdoMUk6vlIe1uR3/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="center">I am a third year student from Amity University Noida in Computer Science. I am passionate python developer and cyber security learner.</h3>
