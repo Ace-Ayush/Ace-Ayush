@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1h8PtG3viGcMZ8QfACCYU1dP9tRHvEHrR/view?usp=sharing)](https://khushboogoel01.github.io)
+[![MasterHead](https://imgur.com/a/PNpuCX0)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="center">I am a third year student from Amity University Noida in Computer Science. I am passionate python developer and cyber security learner.</h3>
 
