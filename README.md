@@ -14,7 +14,7 @@
 <h2 align="left">About Me</h2>
 <h3 align="justify">I am currently pursuing my Bachelors in Computer Science (pre-final year) and have solid works done in the domains of AI/ML with Python, Cyber Security and Web Development.Apart from my Technical skills, I have been actively showcasing my Non-Technical skills like Management, Marketing, and Growth via working with college clubs like Amity AI Club and Amity Cloud Security Club.</h3>
 
-<img align="right" alt="Coding" width="350" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
+<img align="right" alt="Coding" width="350" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <h4>- 🔭 I’m currently working on <b>Solving Real Life Problems using Python</b></h4>
 
