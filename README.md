@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/DYTWDaK.jpeg)](https://ayushshrivastava.live/)
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
-[![Spotify](https://ayush-ace-ayush.vercel.app/api/spotify)](https://open.spotify.com/user/yk6x7kb0j23bagw9jjmbgtlij)
+[![Spotify](https://novatorem-mu-sand.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ace_ayush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ace_ayush_" height="30" width="40" /></a>
