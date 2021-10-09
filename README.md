@@ -10,6 +10,8 @@
 <a href="https://instagram.com/ayushshrivastava_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushshrivastava_25" height="30" width="40" /></a>
 <a href="https://discord.gg/4396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4396" height="30" width="40" /></a>
 </p>
+
+<h2 align="left">About Me</h2>
 <h3 align="justify">I am currently pursuing my Bachelors in Computer Science (pre-final year) and have solid works done in the domains of AI/ML with Python, Cyber Security and Web Development.Apart from my Technical skills, I have been actively showcasing my Non-Technical skills like Management, Marketing, and Growth via working with college clubs like Amity AI Club and Amity Cloud Security Club.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d3bd25991cda0969e0d40229f4700e2710dc5f92&rid=giphy.gif&ct=g">
