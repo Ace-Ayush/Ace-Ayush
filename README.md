@@ -1,5 +1,5 @@
 [![MasterHead](https://i.imgur.com/DYTWDaK.jpeg)](https://ayushshrivastava.live/)
-<h6 align="center">Hi 👋, I'm Ayush Shrivastava</h6>
+<h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ace_ayush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ace_ayush_" height="30" width="40" /></a>
