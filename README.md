@@ -25,7 +25,7 @@
 
 <h4>- 📫 How to reach me **ayushshrivastava600@gmail.com**</h4>
 
-<h4>- 📄 Know about my experiences [https://www.linkedin.com/in/ayush-shrivastava-ace-ayush/](https://www.linkedin.com/in/ayush-shrivastava-ace-ayush/)</h4>
+<h4>- 📄 Know about my experiences [https://www.linkedin.com/in/ayush-shrivastava25/](https://www.linkedin.com/in/ayush-shrivastava25/)</h4>
 
 <h4>- ⚡ Fun fact **I am very helpful person, can ask for help at any time.**</h4>
 
