@@ -28,9 +28,9 @@
 
 <h4>- 📫 How to reach me **ayushshrivastava600@gmail.com**</h4>
 
-<h4>- 📄 Know about my experiences https://www.linkedin.com/in/ayush-shrivastava25/</h4>
-
 <h4>- ⚡ Fun fact **I am very helpful person, can ask for help at any time.**</h4>
+  
+<h4>- 📄 Know about my experiences https://www.linkedin.com/in/ayush-shrivastava25/</h4>
 
 <h2 align="left">Profile Views:</h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="ace-ayush" /> </p>
