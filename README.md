@@ -15,15 +15,19 @@
 
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-<h4>- 🔭 I’m currently working on <b>Solving Real Life Problems using Python</b></h4>
+<h4>- 🔭 I’m currently working on **Solving Real Life Problems using Python**</h4>
 
-<h4>- 💬 Ask me about <b>Python, Cyber Security</b></h4>
+<h4>- 🌱 I’m currently learning **Unity 3D**</h4>
 
-<h4>- 📫 How to reach me <b>ayushshrivastava600@gmail.com</b></h4>
+<h4>- 👨‍💻 All of my projects are available at [https://ayushshrivastava.live](https://ayushshrivastava.live)<h/4>
 
-<h4>- 📄 Know about my experiences https://www.linkedin.com/in/ayush-shrivastava-ace-ayush/</h4>
+<h4>- 💬 Ask me about **Python, Cyber Security, Frontend designs**</h4>
 
-<h4>- ⚡ Fun fact <b>I am very helpful person, can ask for help at any time.</b></h4>
+<h4>- 📫 How to reach me **ayushshrivastava600@gmail.com**</h4>
+
+<h4>- 📄 Know about my experiences [https://www.linkedin.com/in/ayush-shrivastava-ace-ayush/](https://www.linkedin.com/in/ayush-shrivastava-ace-ayush/)</h4>
+
+<h4>- ⚡ Fun fact **I am very helpful person, can ask for help at any time.**</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="ace-ayush" /> </p>
 
