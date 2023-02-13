@@ -26,7 +26,7 @@
 
 <h4>- 💬 Ask me about **Python, Cyber Security, Frontend designs**</h4>
 
-<h4>- 📫 How to reach me **ayushshrivastava600@gmail.com**</h4>
+<h4>- 📫 How to reach me ayushshrivastava600@gmail.com</h4>
 
 <h4>- ⚡ Fun fact **I am very helpful person, can ask for help at any time.**</h4>
   
