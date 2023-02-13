@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/DYTWDaK.jpeg)](https://ayushshrivastava.live/)
+[![MasterHead](https://i.imgur.com/DYTWDaK.jpeg)](https://ayushshrivastava.tech/)
 <h1 align="center">Hi 👋, I'm AYUSH SHRIVASTAVA</h1>
 <!-- [![Spotify](https://novatorem-mu-sand.vercel.app/api/spotify)]-->
 <h2 align="left">Connect with me:</h2>
@@ -22,7 +22,7 @@
 
 <h4>- 🌱 I’m currently learning **Unity 3D**</h4>
 
-<h4>- 👨‍💻 All of my projects are available at https://ayushshrivastava.live<h/4>
+<h4>- 👨‍💻 All of my projects are available at https://ayushshrivastava.tech<h/4>
 
 <h4>- 💬 Ask me about **Python, Cyber Security, Frontend designs**</h4>
 
