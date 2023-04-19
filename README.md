@@ -16,7 +16,7 @@
 <h2 align="left">About Me:</h2>
 <h3 align="justify">I am currently pursuing my Bachelors in Computer Science (final year) and have solid works done in the domains of AI/ML with Python, Cyber Security and Web Development.Apart from my Technical skills, I have been actively showcasing my Non-Technical skills like Management, Marketing, and Growth via working with college clubs like Amity AI Club and Amity Cloud Security Club.</h3>
 
-<img align="right" alt="Coding" width="350" src="[https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)">
+<img align="right" alt="Coding" width="350" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <h4>- 🔭 I’m currently working on **Solving Real Life Problems using Python**</h4>
 
